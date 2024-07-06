@@ -48,12 +48,12 @@ export default function EditControlFC({ geojson, setGeojson }: Props) {
         onCreated={handleChange}
         onDeleted={handleChange}
         draw={{
-          rectangle: false,
+          rectangle: true,
           circle: true,
           polyline: true,
           polygon: true,
-          marker: false,
-          circlemarker: false,
+          marker: true,
+          circlemarker: true,
         }}
       />
     </FeatureGroup>
