@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/alex3165/react-leaflet-draw.git"
+    "url": "git@github.com:nirmaan-labs/react-leaflet-draw.git"
   },
   "files": [
     "dist",
@@ -32,12 +32,12 @@
     "draw",
     "editor"
   ],
-  "author": "Alexandre Rieux",
+  "author": "Nirmaan Labs (Gaurav Yadav)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alex3165/react-leaflet-draw/issues"
+    "url": "https://github.com/nirmaan-labs/react-leaflet-draw.git/issues"
   },
-  "homepage": "https://github.com/alex3165/react-leaflet-draw#readme",
+  "homepage": "https://github.com/nirmaan-labs/react-leaflet-draw.git#readme",
   "types": "src/index.d.ts",
   "peerDependencies": {
     "leaflet": "^1.8.0",
